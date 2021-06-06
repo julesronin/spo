@@ -1,0 +1,1 @@
+export default class ExpressionNode {}  // родительский класс для всех остальных узлов
